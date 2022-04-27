@@ -11,3 +11,4 @@ Dataset: http://ai.bu.edu/M3SDA/
 # DomainNet Dataset
 
 ![data_examples](https://user-images.githubusercontent.com/89314766/165538856-6da01cef-40a5-4575-969a-e6ca10ba391d.png)
+![statistics](https://user-images.githubusercontent.com/89314766/165539835-0bbe4e8a-99a5-4f63-b13e-de080a97d1b5.png)
