@@ -8,4 +8,6 @@
 
 Dataset: http://ai.bu.edu/M3SDA/
 
-![overview](https://user-images.githubusercontent.com/89314766/165305425-6e92ed18-81de-4403-81eb-8622944dd235.png)
+# DomainNet Dataset
+
+![data_examples](https://user-images.githubusercontent.com/89314766/165538856-6da01cef-40a5-4575-969a-e6ca10ba391d.png)
